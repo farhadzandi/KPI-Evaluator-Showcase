@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900">
+<defs><linearGradient id="b" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#07182b"/><stop offset="1" stop-color="#08131f"/></linearGradient><style>.t{font-family:Arial;fill:#eef7ff}.m{font-family:Arial;fill:#9eb5ca}.p{fill:#0b2034;stroke:#183b57;stroke-width:2}.c{fill:#15dad3}.bl{fill:#2f8cff}.pu{fill:#9a6cff}</style></defs>
+<rect width="1600" height="900" fill="url(#b)"/><rect width="250" height="900" fill="#081727"/>
+<text x="55" y="70" class="t" font-size="34" font-weight="700">▥ KPI Evaluator</text>
+<g class="m" font-size="22"><text x="55" y="150">Dashboard</text><text x="55" y="215">Templates</text><text x="55" y="280">Evaluations</text><text x="55" y="345">Contractors</text><text x="55" y="410">Reports</text><text x="55" y="475">Settings</text></g>
+<rect x="25" y="112" width="200" height="60" rx="12" fill="#0e3a50"/><text x="300" y="70" class="t" font-size="46" font-weight="700">KPI Evaluator</text><text x="300" y="108" class="m" font-size="23">Organizational KPI Evaluation &amp; Performance Management</text>
+<g font-family="Arial">
+  <rect x="300" y="145" width="230" height="130" rx="18" class="p"/><text x="325" y="185" class="m" font-size="19">Active Evaluations</text><text x="325" y="235" class="t" font-size="44" font-weight="700">24</text>
+  <rect x="550" y="145" width="230" height="130" rx="18" class="p"/><text x="575" y="185" class="m" font-size="19">Pending Review</text><text x="575" y="235" class="t" font-size="44" font-weight="700">7</text>
+  <rect x="800" y="145" width="230" height="130" rx="18" class="p"/><text x="825" y="185" class="m" font-size="19">Approved</text><text x="825" y="235" class="t" font-size="44" font-weight="700">18</text>
+  <rect x="1050" y="145" width="230" height="130" rx="18" class="p"/><text x="1075" y="185" class="m" font-size="19">Average Score</text><text x="1075" y="235" class="t" font-size="44" font-weight="700">82</text>
+  <rect x="1300" y="145" width="240" height="130" rx="18" class="p"/><text x="1325" y="185" class="m" font-size="19">Threshold</text><text x="1325" y="235" class="t" font-size="44" font-weight="700">75</text>
+</g>
+<rect x="300" y="305" width="800" height="340" rx="18" class="p"/><text x="330" y="350" class="t" font-size="27" font-weight="700">Contractor KPI Comparison</text>
+<g transform="translate(360 395)">
+  <line x1="0" y1="190" x2="680" y2="190" stroke="#355067"/><line x1="0" y1="0" x2="0" y2="190" stroke="#355067"/>
+  <g>
+    <rect x="45" y="45" width="28" height="145" class="c"/><rect x="78" y="62" width="28" height="128" class="bl"/><rect x="111" y="78" width="28" height="112" class="pu"/>
+    <rect x="195" y="30" width="28" height="160" class="c"/><rect x="228" y="52" width="28" height="138" class="bl"/><rect x="261" y="72" width="28" height="118" class="pu"/>
+    <rect x="345" y="56" width="28" height="134" class="c"/><rect x="378" y="35" width="28" height="155" class="bl"/><rect x="411" y="84" width="28" height="106" class="pu"/>
+    <rect x="495" y="50" width="28" height="140" class="c"/><rect x="528" y="63" width="28" height="127" class="bl"/><rect x="561" y="88" width="28" height="102" class="pu"/>
+  </g>
+  <g class="m" font-family="Arial" font-size="15" text-anchor="middle"><text x="92" y="218">Service</text><text x="242" y="218">Safety</text><text x="392" y="218">Innovation</text><text x="542" y="218">Efficiency</text></g>
+</g>
+<rect x="1130" y="305" width="410" height="340" rx="18" class="p"/><text x="1160" y="350" class="t" font-size="27" font-weight="700">Overall Performance</text>
+<circle cx="1280" cy="475" r="95" fill="none" stroke="#18344d" stroke-width="28"/><path d="M1280 380 A95 95 0 1 1 1190 505" fill="none" stroke="#20ddd6" stroke-width="28" stroke-linecap="round"/><text x="1280" y="485" class="t" font-size="48" font-weight="700" text-anchor="middle">82%</text><text x="1280" y="520" class="m" font-size="18" text-anchor="middle">Average Score</text>
+<g font-family="Arial" font-size="18"><text x="1395" y="420" class="m">Above Threshold  18</text><text x="1395" y="465" class="m">At Threshold       4</text><text x="1395" y="510" class="m">Below Threshold   2</text></g>
+<rect x="300" y="675" width="1240" height="185" rx="18" class="p"/><text x="330" y="720" class="t" font-size="26" font-weight="700">Recent Evaluations</text>
+<g font-family="Arial"><text x="340" y="760" class="m" font-size="17">Contractor</text><text x="710" y="760" class="m" font-size="17">Score</text><text x="860" y="760" class="m" font-size="17">Status</text><text x="1140" y="760" class="m" font-size="17">Submitted</text>
+<text x="340" y="805" class="t" font-size="19">Demo Mobility Systems</text><text x="710" y="805" class="c" font-size="20">86</text><text x="860" y="805" class="c" font-size="19">Approved</text><text x="1140" y="805" class="m" font-size="18">Mar 28, 2025</text>
+<text x="340" y="842" class="t" font-size="19">Urban Fleet Tech</text><text x="710" y="842" class="bl" font-size="20">78</text><text x="860" y="842" class="bl" font-size="19">Submitted</text><text x="1140" y="842" class="m" font-size="18">Mar 26, 2025</text></g>
+</svg>
