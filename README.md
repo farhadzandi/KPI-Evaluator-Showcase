@@ -1,5 +1,7 @@
 # KPI Evaluator — Public Showcase
 
+![KPI Evaluator — platform overview](assets/kpi-cover.svg)
+
 A sanitized portfolio showcase of an organizational **KPI evaluation and performance-management platform** designed for contractor qualification, compliance checks, acceptance workflows, and structured performance assessment.
 
 > **Portfolio boundary:** this repository intentionally excludes production source code, real organizational data, credentials, internal infrastructure details, and sensitive business rules.
@@ -9,6 +11,22 @@ A sanitized portfolio showcase of an organizational **KPI evaluation and perform
 Many organizations still evaluate contractors, projects, suppliers, and operational units through spreadsheets, disconnected forms, and manual approval chains. That makes scoring inconsistent, comparison difficult, and auditability weak.
 
 KPI Evaluator is designed to centralize that process around reusable templates, controlled workflows, configurable rules, evidence, approval, reporting, and historical traceability.
+
+## Product visuals
+
+> **Concept UI:** the visuals below use synthetic data and are portfolio mockups, not production screenshots.
+
+### Executive dashboard
+
+![KPI Evaluator dashboard concept](assets/kpi-dashboard.svg)
+
+The dashboard concept shows evaluation volume, review status, thresholds, contractor comparison, performance distribution, and recent evaluation activity.
+
+### Evaluation workspace
+
+![KPI Evaluator evaluation workspace concept](assets/kpi-workspace.svg)
+
+The evaluation workspace concept illustrates weighted KPIs, mandatory requirements, evidence status, score thresholds, lifecycle states, and manager review.
 
 ## Core workflow
 
@@ -154,6 +172,9 @@ This repository includes:
 - [Synthetic sample evaluation](SAMPLE-EVALUATION.md)
 - [Example template data](examples/sample-template.json)
 - [Security / disclosure boundary](SECURITY.md)
+- [Portfolio cover](assets/kpi-cover.svg)
+- [Dashboard concept](assets/kpi-dashboard.svg)
+- [Evaluation workspace concept](assets/kpi-workspace.svg)
 
 ## Portfolio boundary
 
