@@ -1,0 +1,41 @@
+{
+  "template": {
+    "name": "Contractor Performance Evaluation - Demo",
+    "passing_threshold": 75,
+    "sections": [
+      {
+        "name": "Technical",
+        "weight": 35,
+        "kpis": [
+          {
+            "code": "TECH-01",
+            "title": "Functional compliance",
+            "weight": 20,
+            "mandatory": true,
+            "max_score": 100
+          },
+          {
+            "code": "TECH-02",
+            "title": "Integration readiness",
+            "weight": 15,
+            "mandatory": true,
+            "max_score": 100
+          }
+        ]
+      },
+      {
+        "name": "Delivery",
+        "weight": 15,
+        "kpis": [
+          {
+            "code": "DEL-01",
+            "title": "Schedule adherence",
+            "weight": 15,
+            "mandatory": false,
+            "max_score": 100
+          }
+        ]
+      }
+    ]
+  }
+}
